@@ -3,6 +3,7 @@ LeetCode Problems' Solutions
 
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 7    | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [C++](algorithms/cpp/removeDuplicatesFromSortedListII/removeDuplicatesFromSortedListII.cpp) | Medium     |
 | 6    | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C++](algorithms/cpp/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.cpp) | Easy       |
 | 5    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](algorithms/cpp/palindromeNumber/palindromeNumber.cpp)  | Easy       |
 | 4    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](algorithms/cpp/medianOfTwoSortedArrays/medianOfTwoSortedArrays.cpp) | Hard       |
