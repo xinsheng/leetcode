@@ -3,6 +3,7 @@ LeetCode Problems' Solutions
 
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 9    | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [C++](algorithms/cpp/firstBadVersion/firstBadVersion.cpp)    | Easy       |
 | 8    | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](algorithms/cpp/maximumSubarray/maximumSubarray.cpp)    | Easy       |
 | 7    | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [C++](algorithms/cpp/removeDuplicatesFromSortedListII/removeDuplicatesFromSortedListII.cpp) | Medium     |
 | 6    | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C++](algorithms/cpp/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.cpp) | Easy       |
