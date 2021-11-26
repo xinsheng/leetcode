@@ -1,8 +1,9 @@
 # leetcode
-LeetCode Problems' Solutions
+LeetCode Problems' Solutions with Google Test case
 
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 11   | [Rotate Array](https://leetcode.com/problems/rotate-array/)  | [C++](algorithms/cpp/rotateArray/rotateArray.cpp)            | Medium     |
 | 10   | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](algorithms/cpp/squaresofaSortedArray/squaresofaSortedArray.cpp) | Easy       |
 | 9    | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [C++](algorithms/cpp/firstBadVersion/firstBadVersion.cpp)    | Easy       |
 | 8    | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](algorithms/cpp/maximumSubarray/maximumSubarray.cpp)    | Easy       |
