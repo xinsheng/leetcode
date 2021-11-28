@@ -1,8 +1,12 @@
 # leetcode
 LeetCode Problems' Solutions with Google Test case
 
+These are all my own approaches, May be it's not the fastest, but the easy understand.
+
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 17   | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](algorithms/cpp/reverseString/reverseString.cpp)        | Easy       |
+| 16   | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [C++](algorithms/cpp/reverseWordsinaStringIII/reverseWordsinaStringIII.cpp) | Easy       |
 | 15   | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](algorithms/cpp/productOfArrayExceptSelf/productOfArrayExceptSelf.cpp) | Medium     |
 | 14   | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](algorithms/cpp/twoSumII-InputArrayIsSorted/twoSumII-InputArrayIsSorted.cpp) | Easy       |
 | 13   | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)    | [C++](algorithms/cpp/moveZeroes/moveZeroes.cpp)              | Easy       |
