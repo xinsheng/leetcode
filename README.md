@@ -5,6 +5,7 @@ These are all my own approaches, May be it's not the fastest, but the easy under
 
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 18   | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](algorithms/cpp/middleoftheLinkedList/middleoftheLinkedList.cpp) | Easy       |
 | 17   | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](algorithms/cpp/reverseString/reverseString.cpp)        | Easy       |
 | 16   | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [C++](algorithms/cpp/reverseWordsinaStringIII/reverseWordsinaStringIII.cpp) | Easy       |
 | 15   | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](algorithms/cpp/productOfArrayExceptSelf/productOfArrayExceptSelf.cpp) | Medium     |
