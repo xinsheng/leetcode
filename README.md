@@ -5,6 +5,7 @@ These are all my own approaches, May be it's not the fastest, but the easy under
 
 | #    | Title                                                        | Solution                                                     | Difficulty | Algorithm      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | -------------- |
+| 23   | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [C++](algorithms/cpp/mergeTwoBinaryTrees/mergeTwoBinaryTrees.cpp) | Easy       | DFS            |
 | 22   | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [C++](algorithms/cpp/maxAreaofIsland/maxAreaofIsland.cpp)    | Medium     | Recursion      |
 | 21   | [Flood Fill](https://leetcode.com/problems/flood-fill/)      | [C++](algorithms/cpp/floodFill/floodFill.cpp)                | Easy       | Recursion      |
 | 20   | [Permutation In String](https://leetcode.com/problems/permutation-in-string/) | [C++](algorithms/cpp/permutationInString/permutationInString.cpp) | Medium     | Sliding Window |
