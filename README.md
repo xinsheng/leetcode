@@ -5,6 +5,7 @@ These are all my own approaches, May be it's not the fastest, but the easy under
 
 | #    | Title                                                        | Solution                                                     | Difficulty | Algorithm      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | -------------- |
+| 25   | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) [Discuss](https://leetcode.com/problems/reverse-linked-list/discuss/1610433/C%2B%2B-or-Clear-and-Minimal-lines-of-code-or-Faster-than-96) | [C++](algorithms/cpp/reverseLinkedList/reverseLinkedList.cpp) | Easy       |                |
 | 24   | [Same Tree](https://leetcode.com/problems/same-tree/)        | [C++](algorithms/cpp/sameTree/sameTree.cpp)                  | Easy       | Recursion      |
 | 23   | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [C++](algorithms/cpp/mergeTwoBinaryTrees/mergeTwoBinaryTrees.cpp) | Easy       | DFS            |
 | 22   | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [C++](algorithms/cpp/maxAreaofIsland/maxAreaofIsland.cpp)    | Medium     | Recursion      |
