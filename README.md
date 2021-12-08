@@ -5,6 +5,7 @@ These are all my own approaches, May be it's not the fastest, but the easy under
 
 | #    | Title                                                        | Solution                                                     | Difficulty | Algorithm      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | -------------- |
+| 30   | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) [Discuss](https://leetcode.com/problems/reverse-bits/discuss/1617695/Super-Clear-C%2B%2B-Solution) | [C++](algorithms/cpp/reverseBits/reverseBits.cpp)            | Easy       |                |
 | 29   | [Single Number](https://leetcode.com/problems/single-number/) [Discuss](https://leetcode.com/problems/single-number/discuss/1617742/C%2B%2B-easy-solution) | [C++](algorithms/cpp/singleNumber/singleNumber.cpp)          | Easy       |                |
 | 28   | [Number Of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) [Discuss](https://leetcode.com/problems/number-of-1-bits/discuss/1615840/C%2B%2B-2-simple-approaches-or-100-fast) | [C++](algorithms/cpp/numberOf1Bits/numberOf1Bits.cpp)        | Easy       |                |
 | 27   | [Power Of Two](https://leetcode.com/problems/power-of-two/) [Discuss](https://leetcode.com/problems/power-of-two/discuss/1615799/Super-clean-and-easy-understand-C%2B%2B-solution-or-100-fast) | [C++](algorithms/cpp/powerOfTwo/powerOfTwo.cpp)              | Easy       |                |
