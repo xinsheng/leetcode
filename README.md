@@ -5,6 +5,7 @@ These are all my own approaches, May be it's not the fastest, but the easy under
 
 | #    | Title                                                        | Solution                                                     | Difficulty | Algorithm      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | -------------- |
+| 32   | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) [Discuss](https://leetcode.com/problems/insertion-sort-list/discuss/1629635/Super-Clear-C%2B%2B-Solution) | [C++](algorithms/cpp/insertionSortList/insertionSortList.cpp) | Medium     |                |
 | 31   | [Range Sum Of BST](https://leetcode.com/problems/range-sum-of-bst/) [Discuss](https://leetcode.com/problems/range-sum-of-bst/discuss/1628331/Super-Easy-Solution-in-C%2B%2B) | [C++](algorithms/cpp/rangeSumOfBST/rangeSumOfBST.cpp)        | Easy       |                |
 | 30   | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) [Discuss](https://leetcode.com/problems/reverse-bits/discuss/1617695/Super-Clear-C%2B%2B-Solution) | [C++](algorithms/cpp/reverseBits/reverseBits.cpp)            | Easy       |                |
 | 29   | [Single Number](https://leetcode.com/problems/single-number/) [Discuss](https://leetcode.com/problems/single-number/discuss/1617742/C%2B%2B-easy-solution) | [C++](algorithms/cpp/singleNumber/singleNumber.cpp)          | Easy       |                |
