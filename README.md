@@ -5,6 +5,7 @@ These are all my own approaches, May be it's not the fastest, but the easy under
 
 | #    | Title                                                        | Solution                                                     | Difficulty | Algorithm      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | -------------- |
+| 34   | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | [C++](algorithms/cpp/subdomainVisitCount/subdomainVisitCount.cpp) | Medium     |                |
 | 33   | [Text Justification](https://leetcode.com/problems/text-justification/) | [C++](algorithms/cpp/textJustification/textJustification.cpp) | Hard       |                |
 | 32   | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) [Discuss](https://leetcode.com/problems/insertion-sort-list/discuss/1629635/Super-Clear-C%2B%2B-Solution) | [C++](algorithms/cpp/insertionSortList/insertionSortList.cpp) | Medium     |                |
 | 31   | [Range Sum Of BST](https://leetcode.com/problems/range-sum-of-bst/) [Discuss](https://leetcode.com/problems/range-sum-of-bst/discuss/1628331/Super-Easy-Solution-in-C%2B%2B) | [C++](algorithms/cpp/rangeSumOfBST/rangeSumOfBST.cpp)        | Easy       |                |
